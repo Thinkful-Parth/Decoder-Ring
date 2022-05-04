@@ -43,6 +43,7 @@ Examples
 |3|	L|	M|	N|	O|	P|
 |4|	Q|	R|	S|	T|	U|
 |5|	V|	W|	X|	Y|	Z|
+
 The Polybius square is a cipher that is achieved by arranging a typical alphabet into a grid. Each letter is represented through a coordinate. For example, in the above table, the letter B would be represented by the numerical pair 21.
 
      polybius(input,encode=true)
